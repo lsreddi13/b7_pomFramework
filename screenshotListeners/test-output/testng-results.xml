@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-06T08:03:20 IST" name="Default suite" finished-at="2023-01-06T08:04:49 IST" duration-ms="88169">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T08:03:20 IST" name="Default test" finished-at="2023-01-06T08:04:49 IST" duration-ms="88169">
+      <class name="com.test.testcases.FB">
+        <test-method is-config="true" signature="testSuite()[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:03:21 IST" name="testSuite" finished-at="2023-01-06T08:03:47 IST" duration-ms="26431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuite -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:03:48 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:03:58 IST" duration-ms="10341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ramu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[papa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:03:58 IST" name="methodTestCompletd" finished-at="2023-01-06T08:03:58 IST" duration-ms="176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:03:58 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:04:08 IST" duration-ms="9933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[somu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kapa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:08 IST" name="methodTestCompletd" finished-at="2023-01-06T08:04:08 IST" duration-ms="175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:08 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:04:18 IST" duration-ms="9925" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kamu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tapa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:18 IST" name="methodTestCompletd" finished-at="2023-01-06T08:04:19 IST" duration-ms="135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:19 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:04:28 IST" duration-ms="9918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[damu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chapa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:28 IST" name="methodTestCompletd" finished-at="2023-01-06T08:04:29 IST" duration-ms="155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:29 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:04:39 IST" duration-ms="9919" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[damu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chapa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:39 IST" name="methodTestCompletd" finished-at="2023-01-06T08:04:39 IST" duration-ms="116" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+        <test-method signature="testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:39 IST" name="testCreateAccountsXLSDATA" data-provider="getXlsFileData" finished-at="2023-01-06T08:04:49 IST" duration-ms="9895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[damu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chapa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountsXLSDATA -->
+        <test-method is-config="true" signature="methodTestCompletd(org.testng.ITestResult)[pri:0, instance:com.test.testcases.FB@13e344d]" started-at="2023-01-06T08:04:49 IST" name="methodTestCompletd" finished-at="2023-01-06T08:04:49 IST" duration-ms="119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateAccountsXLSDATA status=SUCCESS method=FB.testCreateAccountsXLSDATA(java.lang.String,java.lang.String)[pri:1, instance:com.test.testcases.FB@13e344d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTestCompletd -->
+      </class> <!-- com.test.testcases.FB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
